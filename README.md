@@ -1,5 +1,5 @@
 # JSON-Visualization
-Adding Geometry column to ESRI-JSON file for visualizing on an interactive map.
+Adding Geometry column to ESRI-JSON file for visualizing spatial data on an interactive map.
 
 <img src="https://github.com/metemu/JSON-Visualization/blob/master/map.PNG">
 
